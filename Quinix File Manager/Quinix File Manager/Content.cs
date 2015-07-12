@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Quinix_File_Manager
 {
-    public partial class Form1 : Form
+    public partial class Content : Form
     {
-        public Form1()
+        public Content()
         {
             InitializeComponent();
         }

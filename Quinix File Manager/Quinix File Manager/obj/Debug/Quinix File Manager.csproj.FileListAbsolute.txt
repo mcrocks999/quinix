@@ -1,1 +1,10 @@
 C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\bin\Debug\Quinix File Manager.exe.config
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\bin\Debug\Quinix File Manager.exe
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\bin\Debug\Quinix File Manager.pdb
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix_File_Manager.Template.resources
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix_File_Manager.Properties.Resources.resources
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.csproj.GenerateResource.Cache
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.exe
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.pdb
+C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix_File_Manager.Content.resources
