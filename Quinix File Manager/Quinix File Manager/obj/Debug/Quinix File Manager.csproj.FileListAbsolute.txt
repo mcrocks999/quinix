@@ -8,3 +8,6 @@ C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\ob
 C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.exe
 C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.pdb
 C:\Users\Liam\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix_File_Manager.Content.resources
+C:\Users\Rains\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\bin\Debug\Quinix File Manager.exe.config
+C:\Users\Rains\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.exe
+C:\Users\Rains\Documents\GitHub\quinix\Quinix File Manager\Quinix File Manager\obj\Debug\Quinix File Manager.pdb
