@@ -100,8 +100,20 @@ public class StartMenu extends JFrame {
 		btnAudioPlayer.setBounds(290, 225, 150, 40);
 		viewPort.add(btnAudioPlayer);
 		
-		JLabel label = new JLabel(new ImageIcon("QuinixData\\file-manager-50.png"));
-		label.setBounds(230, 70, 40, 40);
-		viewPort.add(label);
+		JLabel iconFileBrowser = new JLabel(new ImageIcon("QuinixData\\file-manager.png"));
+		iconFileBrowser.setBounds(230, 70, 40, 40);
+		viewPort.add(iconFileBrowser);
+		
+		JLabel iconInternet = new JLabel(new ImageIcon("QuinixData\\internet.png"));
+		iconInternet.setBounds(230, 122, 40, 40);
+		viewPort.add(iconInternet);
+		
+		JLabel iconVideoPlayer = new JLabel(new ImageIcon("QuinixData\\video-player.jpg"));
+		iconVideoPlayer.setBounds(230, 173, 40, 40);
+		viewPort.add(iconVideoPlayer);
+		
+		JLabel iconAudioPlayer = new JLabel(new ImageIcon("QuinixData\\audio-player.png"));
+		iconAudioPlayer.setBounds(230, 225, 40, 40);
+		viewPort.add(iconAudioPlayer);
 	}
 }
