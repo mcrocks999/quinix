@@ -5,6 +5,8 @@ import java.awt.EventQueue;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import java.awt.Color;
+import java.awt.Dimension;
+
 import javax.swing.JPanel;
 import java.awt.BorderLayout;
 import javax.swing.JLabel;
@@ -15,6 +17,8 @@ import javax.swing.border.LineBorder;
 @SuppressWarnings("serial")
 public class Quinix extends JFrame {
 
+	JButton btnStart = new JButton(new ImageIcon("QuinixData\\startBtn.png"));
+	
 	/**
 	 * Launch the application.
 	 */
@@ -55,7 +59,9 @@ public class Quinix extends JFrame {
 		panel_1.setLayout(new FlowLayout(FlowLayout.LEFT, 5, 5));
 		panel_1.setBorder(new LineBorder(new Color(0, 70, 123), 5, true));
 		
-		JButton btnStart = new JButton(new ImageIcon("C:\\Users\\Rains\\Documents\\GitHub\\quinix\\Quinix\\QuinixData\\startBtn.png"));
+		btnStart.setMaximumSize(new Dimension(150, 50));
+		btnStart.setPreferredSize(new Dimension(150, 50));
+		btnStart.setMinimumSize(new Dimension(150, 50));
 		btnStart.setBorderPainted(false);
 		btnStart.setContentAreaFilled(false);
 		panel_1.add(btnStart);
